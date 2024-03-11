@@ -1,2 +1,4 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CTHua&theme=onedark)](https://github.com/CTHua/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CTHua&theme=onedark)]
+
+[![trophy](https://github-profile-trophy-cthua.vercel.app/?username=CTHua&theme=onedark)]

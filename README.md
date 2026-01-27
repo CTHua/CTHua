@@ -26,7 +26,7 @@
 🎓 Research     →  AI Agent Red Team
 🛡️ Interest     →  LLM Security & Safety
 🏫 Education    →  NYCU CS · SQLab
-💼 Working at   →  OpenNCCU
+💼 Working at   →  Hmmm AI Tech Co. / O3O Labs / OpenNCCU
 ```
 
 ---
